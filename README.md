@@ -4,14 +4,15 @@
              2)mouse lenovo legion m200 rgb(will stay for the new one)
              3)keyboard Logitech (i couldnt find the exacty type)
              4)reproductors:Trust rgb
-             5)Hardware:   1.Cpu-Intel core i5-4570(3.2ghz)-64bit,architecture*x64-9bit*
+             5)Computer case:unknown
+             6)Hardware:   1.Cpu-Intel core i5-4570(3.2ghz)-64bit,architecture*x64-9bit*
                            2.Ram-DDR3 16gb
                            3.Gpu-4gb-Radeon RX 560 Series
                            4.SSD- 112gb AXLE-SSD,466gb HDD
                            5.motherboard-ASrock(i couldnt find the exact type but it sits for max intel core 4790 Cpu)
                            6.power supply-500w
                            7.Cooler CPU-Be Quiet (old generation)
-             6)computer case-unknown
+            
 
 
 
